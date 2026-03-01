@@ -1,0 +1,11 @@
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\bin\Release\net10.0\StringLibrary.deps.json
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\bin\Release\net10.0\StringLibrary.dll
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\bin\Release\net10.0\StringLibrary.pdb
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.AssemblyInfo.cs
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.dll
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\refint\StringLibrary.dll
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\StringLibrary.pdb
+D:\Coding\my-projects\ClassLibraryProjects\StringLibrary\obj\Release\net10.0\ref\StringLibrary.dll
